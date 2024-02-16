@@ -1,0 +1,12 @@
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\bin\Debug\net8.0\MyAverageLib.deps.json
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\bin\Debug\net8.0\MyAverageLib.dll
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\bin\Debug\net8.0\MyAverageLib.pdb
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.AssemblyInfoInputs.cache
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.AssemblyInfo.cs
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.csproj.CoreCompileInputs.cache
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.sourcelink.json
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.dll
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\refint\MyAverageLib.dll
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\MyAverageLib.pdb
+C:\Users\allan\Repos\cs11dotnet7\vscode\Chapter04\MyAverageLib\obj\Debug\net8.0\ref\MyAverageLib.dll
