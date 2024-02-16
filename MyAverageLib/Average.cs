@@ -3,7 +3,7 @@
  * Spring 2024
  * Course: CPS*3300*01 - Software Development with Frameworks
  * Author: Allan Lozano Bardales, CPS*3300, 01 
- * Lab #2 Create and Test a Library App
+ * Lab #3 Unit Tests
  *******************************************************************************/
 
 namespace MyAverageLib
